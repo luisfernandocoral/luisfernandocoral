@@ -25,10 +25,10 @@
     <a href = "mailto: work.luisfernadocoral23@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "">
+    <a href = "                                   ">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "">
+    <a href = "                          ">
       <img width="35" src="youtube.svg">
     </a>
     <a href = "https://www.instagram.com/luiscoralf/">
