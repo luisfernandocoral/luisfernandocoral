@@ -2,7 +2,8 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante de ciencia-da-computacao 2/8
+- 🌱 Estudante de ciencia da computacao 2/8
+
 <div align="center">
   <a href="https://github.com/luisfernandocoral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfernandocoral&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -21,7 +22,10 @@
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-
+  
+<div align="center">
+<img src="https://github.com/luisfernandocoral/luisfernandocoral/blob/main/code.gif" width="400px" />
+</div>
 
 
   </div>
